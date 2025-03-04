@@ -1,12 +1,3 @@
---================================--
---       FIRE SCRIPT v2.0.0       --
---  by GIMI (+ foregz, Albo1125)  --
---      License: GNU GPL 3.0      --
---================================--
-
---================================--
---         VERSION CHECK          --
---================================--
 
 Version = GetResourceMetadata(GetCurrentResourceName(), "version")
 LatestVersionFeed = "https://api.github.com/repos/gimicze/firescript/releases/latest"
